@@ -1,6 +1,7 @@
 # flutter_application_1
 
-A new Flutter project.
+This project is practice of the flutter.
+This project is basic, with basics operations, sum, subtraction and zero, to count number.
 
 ## Getting Started
 
